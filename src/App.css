@@ -1,0 +1,16 @@
+#drum-machine {
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.top-buffer { padding-top:20px; }
+
+#drum-machine button {
+    text-align: center;
+}
+
+#display {
+    color: #b8199d;
+    font-weight: 800;
+}
